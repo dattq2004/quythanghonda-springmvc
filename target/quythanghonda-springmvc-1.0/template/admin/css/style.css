@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #111729; /* Màu nền chính */
+}
+
+.header-gradient {
+  background: linear-gradient(to bottom, #111729, #1d132f);
+}
+
+.main-background {
+  min-height: 100vh; /* Đảm bảo nội dung chính chiếm toàn bộ chiều cao */
+}
+
+.footer-gradient {
+  background: linear-gradient(to right, #5e3695, #445ebe);
+}
